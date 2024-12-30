@@ -1,7 +1,6 @@
 # Enhanced Q&A Chatbot with OpenAI
 
-![Project Logo](images/project.png)
-
+![Project Logo](img/project.png)
 
 This project is a Q&A chatbot built using **Streamlit**, **OpenAI**, and **Langchain**. It allows users to interact with a chatbot powered by OpenAI's language models, providing answers to their questions in real-time.
 
